@@ -4,6 +4,7 @@ This is the code in my book [Grokking Algorithms](https://www.manning.com/bharga
 
 Check out [Python Tutor](http://pythontutor.com/), a great website that guides you through Python code line by line.
 
+![image](https://github.com/gxianch/grokking_algorithms/blob/master/cover.jpg)
 ## Errata
 
 [Here's the errata page](http://adit.io/errata.html).
